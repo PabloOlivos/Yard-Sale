@@ -1,8 +1,8 @@
-# Yard Sale (Maquetación / Diagramación web )
+<h1 align="center"> Yard Sale (Maquetación / Diagramación web )</h1>
 
 ## Descripción
 
-La maquetación o diagramación web consiste en transformar un diseño gráfico —boceto— (hecho por UX/UI en Figma o Scketch) en una interfaz funcional en términos de programación que entienda un navegador o dispositivo específico.
+La maquetación o diagramación web consiste en transformar un diseño gráfico —boceto— (hecho por UX/UI en Figma o Scketch) en una interfaz funcional en términos de programación que entienda un navegador o dispositivo específico. <br><br>
 ![image](https://github.com/PabloOlivos/Yard-Sale/assets/114788305/a5e860cf-bff3-4a1a-9192-903abea5ab25)
 
 El área de diseño nos proporcionó el bosquejo del proyecto en Figma.
